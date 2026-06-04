@@ -1,0 +1,59 @@
+{
+  "siteId": "small-apartment-design-cases",
+  "generatedAt": "2026-06-04T11:35:31.013326",
+  "categories": [
+    "beginner-small-apartment-design-cases",
+    "advanced-small-apartment-design-cases",
+    "tips-small-apartment-design-cases",
+    "history-small-apartment-design-cases",
+    "trending-small-apartment-design-cases",
+    "tutorials-small-apartment-design-cases"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-small-apartment-design-cases",
+      "category_name": "Beginner Small Apartment Design Cases"
+    },
+    {
+      "category_slug": "advanced-small-apartment-design-cases",
+      "category_name": "Advanced Small Apartment Design Cases"
+    },
+    {
+      "category_slug": "tips-small-apartment-design-cases",
+      "category_name": "Small Apartment Design Cases Tips"
+    },
+    {
+      "category_slug": "history-small-apartment-design-cases",
+      "category_name": "Small Apartment Design Cases History"
+    },
+    {
+      "category_slug": "trending-small-apartment-design-cases",
+      "category_name": "Trending Small Apartment Design Cases"
+    },
+    {
+      "category_slug": "tutorials-small-apartment-design-cases",
+      "category_name": "Small Apartment Design Cases Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "small-apartment-design-cases",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "centered",
+    "site_title": "Small Apartment Design Cases Central",
+    "articles_per_row": 3
+  }
+}
